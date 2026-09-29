@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-indeed",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Indeed Jobs Scraper Apify Actor by ScrapeUnblocker: Indeed job listings with company, location, salary and job types as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-indeed#readme",
