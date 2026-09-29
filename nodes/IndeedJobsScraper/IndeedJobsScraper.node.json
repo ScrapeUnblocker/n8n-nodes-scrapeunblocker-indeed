@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-indeed.indeedJobsScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Productivity",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-indeed#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-indeed#readme"
+			}
+		]
+	},
+	"alias": [
+		"indeed",
+		"jobs",
+		"job search",
+		"hiring",
+		"recruiting",
+		"vacancies",
+		"careers",
+		"apify",
+		"scrapeunblocker"
+	]
+}
